@@ -5,6 +5,10 @@ I'm a passionate Front End Developer who loves to work with JavaScript. I have a
 - 🔭 I’m hoping to start working on open source projects in the new year
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 Don't make me think by Steve Krug is my favorite book on Web Usability.
-- 😄 CSS IN DEpth by Keith J. Grant is my Bible.
+- 😄 CSS IN Depth by Keith J. Grant is my Bible.
 - 📫 How to reach me: trevorodwyer619@hotmail.com.
 - ⚡ Fun fact: I like to play games and love to snack.
+
+### Favorite Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
