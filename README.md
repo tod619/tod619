@@ -17,7 +17,6 @@ I'm a passionate Front End Developer who loves to work with JavaScript. I have a
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tod619.tod619)
 
-<details>
 <summary>
   More stuff about me
 </summary>
