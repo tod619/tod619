@@ -25,3 +25,7 @@ I'm a passionate Front End Developer who loves to work with JavaScript. I have a
 <br >
 
 When I first graduated I didn't think that coding was for me, in fact I hated to code. But when I discovered the depth of JavaScript and all the amazing thinks that I could do with that language I became hooked. Creating on the front end has helped me explore my artistic side. I love to explore the psychology aspect of UI design and to understand why interact with machines the way we do.
+
+#### Github Stats
+
+![Trevor's github stats](https://github-readme-stats.vercel.app/api?username=tod619&count_private=true&theme=tokyonight&hide=contribs,prs)
