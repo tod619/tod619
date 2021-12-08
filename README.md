@@ -7,7 +7,7 @@ I'm a passionate Front End Developer who loves to work with JavaScript. I have a
 - 🤔 Don't make me think by Steve Krug is my favorite book on Web Usability.
 - 😄 CSS IN Depth by Keith J. Grant is my Bible.
 - 📫 How to reach me: trevorodwyer619@hotmail.com.
-- ⚡ Fun fact: I like to play games and love to snack.
+- ⚡ Fun fact: I like to play games and I love to draw.
 
 ### Favorite Technologies
 
@@ -16,3 +16,12 @@ I'm a passionate Front End Developer who loves to work with JavaScript. I have a
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tod619.tod619)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+When I first graduated I didn't think that coding was for me, in fact I hated to code. But when I discovered the depth of JavaScript and all the amazing thinks that I could do with that language I became hooked. Creating on the front end has helped me explore my artistic side. I love to explore the psychology aspect of UI design and to understand why interact with machines the way we do.
